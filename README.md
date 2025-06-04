@@ -67,7 +67,7 @@ This project was developed in Java using Eclipse. It was created to help learner
 1. **Clone or Download Repository**  
    - **Via Git**:  
      ```bash
-     git clone https://github.com/your-username/caesar-cipher-tool.git
+     git clone https://github.com/Ayanda-Ndlovu/caesar-cipher-tool.git
      ```  
    - **Or** download the ZIP from GitHub and extract it to a folder of your choice.
 
